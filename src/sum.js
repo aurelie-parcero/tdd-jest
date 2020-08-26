@@ -9,4 +9,4 @@ function getSum(a, b) {
 
 module.exports = getSum;
 
-//getSum('Hello', 5);
+getSum('Hello', 5);
